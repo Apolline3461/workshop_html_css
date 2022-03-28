@@ -15,5 +15,7 @@ ul{
 }
 
 .image {
+    width: 200;
+    height: 200;
     border: 15px ridge blue;
 }
